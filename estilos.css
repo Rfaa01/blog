@@ -13,5 +13,5 @@ h1{
 .barra a{
     color: black;
     text-decoration: none;
-    justify-content: space-between;
+    margin: 35px;
 }
