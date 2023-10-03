@@ -14,4 +14,9 @@ h1{
     color: black;
     text-decoration: none;
     margin: 35px;
+    transition: .5s;
+}
+
+.barra a:hover{
+    color: red;
 }
